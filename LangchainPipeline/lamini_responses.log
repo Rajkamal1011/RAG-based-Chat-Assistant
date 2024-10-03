@@ -1,0 +1,260 @@
+nohup: ignoring input
+/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (522 > 512). Running this sequence through the model will result in indexing errors
+Checkpoint path: MBZUAI/LaMini-T5-738M
+student_information_handbook.pdf
+Processing textual queries from 'textual_TESTSET_FINAL.xlsx'...
+Processing query: What is the normal duration of M.Tech courses at IISc?
+Answer: The normal duration of M.Tech courses at IISc is two 1.6.1 years.
+Processing query: Can M.Tech students request an extension for their program?
+Answer: Yes.
+Processing query: What is the minimum TGPA required in the first term for M.Tech students who joined after July 2016?
+Answer: The minimum TGPA required in the first term for M. Tech (Online) students who joined after July 2016 is 4.0.
+Processing query: What is the maximum credit load for M.Tech students in the first term if their CGPA is greater than or equal to 9.0?
+Answer: The maximum credit load for M. Tech students in the first term if their CGPA is greater than or equal to 9.0 is 12 credits.
+Processing query: What happens if a student secures more than two 'F' grades?
+Answer: The student will be required to repeat the same course whenever it is offered again.
+Processing query: What is the minimum CGPA required for a student to avoid termination after the first term?
+Answer: The minimum CGPA required for a student to avoid termination after the first term is a 4.0 or higher.
+Processing query: When are the terminal exams usually held?
+Answer: The provided context does not provide information about when the terminal exams are usually held.
+Processing query: Can a student get an exemption from a core course?
+Answer: Yes, a student can get an exemption from a core course if they had credited the same course or a course with a similar syllabus in their prior education.
+Processing query: What is the minimum pass grade for project work in the M.Tech program?
+Answer: The minimum pass grade for the project work in the M.Tech program is a ‘D’ grade.
+Processing query: What is the maximum allowed period of internship for M.Tech students?
+Answer: The maximum allowed period of internship for M.Tech students is 3 months with 1.10.2 programme.
+Processing query: Is the project grade included in the CGPA for M.Tech (Online) students?
+Answer: No, the project grade is not included in the CGPA for M.Tech (Online) students.
+Processing query: Are students in the M.Tech (Online) program eligible for internships?
+Answer: No.
+Processing query: What is the maximum time for completing the M.Tech (Online) degree?
+Answer: The maximum time for completing the M. Tech (Online) degree is expected to be 3 years and must not exceed 4 years.
+Processing query: What is the CGPA requirement for transferring to a PhD program?
+Answer: The CGPA requirement for transferring to a PhD program is 8.0, considering all the courses (a minimum of 24 credits) taken in the first two terms.
+Processing query: What scholarship amount is given to PhD students after successful completion of the comprehensive examination?
+Answer: The scholarship amount given to PhD students after successful completion of the comprehensive examination is not mentioned in the given context.
+Processing query: What is the maximum number of credits a student can take in a regular term?
+Answer: The maximum number of credits a student can take in a regular term is 12.
+Processing query: Can M.Tech students be granted a break in studies?
+Answer: Yes, M.Tech students may be granted a break in studies only on medical grounds for a maximum period of one year.
+Processing query: How is the CGPA calculated for distinction?
+Answer: The CGPA is calculated for distinction by securing a CGPA of 8.5 or above (including the project grade).
+Processing query: How are the M.Tech degrees classified at IISc?
+Answer: The M.Tech degrees at IISc are classified as M. Tech in Engineering.
+Processing query: Is auditing of courses allowed in the M.Tech program?
+Answer: The context does not provide information about whether auditing of courses is allowed in the M.Tech program.
+Processing query: What happens if a student's TGPA falls between 4.0 and 5.0 in the first term?
+Answer: The student is required to register for fewer courses but must satisfy the prescribed minimum.
+Processing query: When should a student begin their project work?
+Answer: The context does not provide information about when a student should begin their project work.
+Processing query: Can students in the M.Tech (Online) program apply for transfer to a PhD?
+Answer: Yes, students in the M.Tech (Online) program can apply for transfer to a PhD program upon the completion of two terms.
+Processing query: What is the minimum required attendance for each course?
+Answer: The provided context does not provide information about the minimum required attendance for each course.
+Processing query: Can students in the 1+1 Joint Master’s program complete their coursework in Taiwan?
+Answer: Yes.
+Processing query: How many credits are required for completion of the 1+1 year Joint Master programme?
+Answer: The total time for completion of the Joint Master programme is 1 year.
+Processing query: How many credits are M.Engg students expected to complete in one year?
+Answer: M. Engg students are expected to complete 32 credits within the academic year.
+Processing query: What is the minimum CGPA required for transfer to a PhD programme?
+Answer: The minimum CGPA required for transfer to a PhD programme is 8.0, considering all the courses (a minimum of 24 credits) taken in the first two terms.
+Processing query: How many credits are required for M.Engg students in core courses?
+Answer: Students are expected to complete 32 credits, comprising 23 credits of core courses.
+Processing query: What is the duration of the scholarship for M. Tech and MDes students?
+Answer: The duration of the scholarship for M. Tech/ MDes students is 2 years.
+Processing query: What is the maximum GARP funding available to research students?
+Answer: The maximum GARP funding available to research students is  2,00,000/-.
+Processing query: How many occasions can a student utilize the GARP funds?
+Answer: A student can utilize the GARP funds for up to 4 occasions during the entire program.
+Processing query: Can GARP funds be used for non-presenting academic events?
+Answer: Yes, GARP funds can be used for non-presenting academic events, but they are specifically for presenting a paper in a conference/workshop/symposium, even if these events are held online.
+Processing query: Who is eligible for maternity leave under IISc leave rules?
+Answer: The provided context does not provide information on who is eligible for maternity leave under IISc leave rules.
+Processing query: What is the maximum leave period allowed on medical grounds?
+Answer: The provided context does not mention the maximum leave period allowed on medical grounds.
+Processing query: What is the limit for personal leave for research students?
+Answer: The limit for personal leave for research students is 30 days in a year.
+Processing query: What happens if a student takes more leave than the permissible limit?
+Answer: If a student takes more leave than the permissible limit, they will not be eligible for re-admission for a period of three years and issuing transcripts or certificates for the courses studied or work carried out.
+Processing query: What is the policy for combining different types of leave?
+Answer: The policy for combining different types of leave is normally not permitted.
+Processing query: What happens if a PhD student fails to submit their thesis within the specified time?
+Answer: The student is required to seek permission from the Deans before submitting the thesis.
+Processing query: What is the process for applying for GARP funding?
+Answer: The process for applying for GARP funding involves filling out the application form, requesting an estimate of travel expense details, and raising a request on the Adser portal.
+Processing query: What is the policy for granting leave during term breaks?
+Answer: The policy for granting leave during term breaks is that students are not required to apply for leave during term break, but permission needs to be sought in case of attending an internship during this period.
+Processing query: What is the duration limit for GARP support for M. Tech (Research) students?
+Answer: The provided context does not provide a specific duration limit for GARP support for M. Tech (Research) students.
+Processing query: Can PhD students who completed 6 years receive GARP support?
+Answer: No, PhD students who have completed 6 years are not eligible to get support.
+Processing query: What are the responsibilities of the Research Supervisor in the thesis submission process?
+Answer: The responsibilities of the Research Supervisor in the thesis submission process are to upload the panel of examiners for evaluating the thesis on their SAP account and to obtain all required approvals from members of the CE board and the department Chair.
+Processing query: What is the process for submitting the thesis in ScholarOne?
+Answer: The process for submitting the thesis in ScholarOne involves submitting the thesis through ScholarOne by the student, verifying and approving the format, inviting examiners for evaluation through ScholarOne portal, and submitting reports through ScholarOne portal only.
+Processing query: What is the penalty for failing to attend the oral examination within 6 months of thesis submission?
+Answer: The provided context does not provide information about the penalty for failing to attend the oral examination within 6 months of thesis submission. Therefore, the answer is "unanswerable".
+Processing query: What is the dress and conduct code for IISc students?
+Answer: The dress and conduct code for IISc students is not provided in the given context.
+Processing query: What are the penalties for alcohol-related offenses?
+Answer: The penalties for alcohol-related offenses are: fines, written commitments, and a more severe penalty, including rustication from the Institute.
+Processing query: What actions are considered as ragging?
+Answer: Ragging is considered to be any conduct by a student or students that causes or is likely to cause annoyance, hardship, physical or psychological harm or raise fear or apprehension thereof in any other student.
+Processing query: What are the penalties for ragging at IISc?
+Answer: The penalties for ragging at IISc are suspension from attending classes and academic privileges, withholding/withdrawing scholarship/fellowship and other benefits, and the Institute's own enquiry initiated under clause 9.
+Processing query: Who governs the anti-ragging policies at IISc?
+Answer: The context does not provide information about who governs the anti-ragging policies at IISc.
+Processing query: What is the process for applying for leave at IISc?
+Answer: The provided context does not provide information about the process for applying for leave at IISc.
+Processing query: What is the policy for TA appointments at IISc?
+Answer: The context does not provide information about the policy for TA appointments at IISc.
+Processing query: How many hours of mandatory assistance are required under the Students’ Assistance Programme?
+Answer: The duration of assistance should be between 60-120 hours in a particular term subject to the condition that it should not be more than 50 hours taken.
+Processing query: What is the compensation rate for non-mandatory assistance under the Students’ Assistance Programme?
+Answer: The compensation rate for non-mandatory assistance under the Students' Assistance Programme is not provided in the given context.
+Processing query: What is the policy for cancellation of approved leaves?
+Answer: The policy for cancellation of approved leaves is not provided in the given context.
+Processing query: What is the policy for breaks in studies at IISc?
+Answer: The policy for breaks in studies at IISc is not provided in the given context.
+Processing query: What is the maximum scholarship duration for a break in studies?
+Answer: The maximum scholarship duration for a break in studies on medical grounds is one month.
+Processing query: How are students' loans from the Students’ Aid Fund repaid?
+Answer: The students' loans from the Students' Aid Fund are repaid by the Committee constituted by the Director.
+Processing query: What is the penalty for failing to pay thesis fees?
+Answer: The penalty for failing to pay thesis fees is a) Overdue charges of Rs. 20/- per week or part thereof.
+Processing query: What is the amount of the thesis submission fee for PhD students?
+Answer: The amount of the thesis submission fee for PhD students is not provided in the given context.
+Processing query: What is the role of ScholarOne in thesis processing?
+Answer: ScholarOne is a portal that covers all activities of PhD and Master’s thesis processing, starting with the submission of thesis by the student to the receipt of all thesis evaluation reports from the assigned examiners.
+Processing query: How can a student check the accuracy of their grades?
+Answer: The student can check the accuracy of their grades by going through their corrected answer scripts before the deadline of May 25th.
+Processing query: What are the rules for International Students on leave?
+Answer: The rules for international students on leave are not provided in the given context.
+Processing query: What is the policy for copyright ownership of thesis work?
+Answer: The policy for copyright ownership of thesis work is not provided in the given context.
+Processing query: What is the policy for withdrawing scholarships due to misconduct?
+Answer: The policy for withdrawing scholarships due to misconduct is stated in the given context as 13.6.
+Processing query: What is the procedure for submitting a colloquium before thesis submission?
+Answer: The candidate is required to give a colloquium on the thesis work before submitting the synopsis. The thesis needs to be submitted within six weeks after the colloquium for Ph. D students and within 4 weeks for MS(Res)/M Tech(Res) students. If the student fails to do so, permission should be sought from the Deans before submitting the thesis.
+Processing query: What happens if the thesis needs to be revised?
+Answer: If the thesis needs to be revised, the student's registration will stand cancelled.
+Processing query: What is the maximum period allowed for collaborative work or internship for M.Tech (Res) students?
+Answer: The maximum allowed period for collaborative work/internship for M. Tech (Res) students is 3 months without collaboration and 6 months with collaboration.
+Processing query: How long is the scholarship available during collaborative work or internship?
+Answer: The scholarship will be stopped after 6 weeks of the presentation of the colloquium.
+Processing query: What is the minimum duration of residence for PhD students?
+Answer: The minimum duration of residence for PhD students is 3.1.1.
+Processing query: What is the maximum duration of residence for PhD students?
+Answer: The maximum duration of residence for PhD students is 5 years.
+Processing query: What is the minimum CGPA required for PhD students with postgraduate qualifications?
+Answer: The minimum CGPA required for PhD students with postgraduate qualifications is 7.
+Processing query: How many credits are required for PhD students with undergraduate qualifications in Science?
+Answer: The maximum number of credits allowed for PhD students with undergraduate qualifications in Science is 73.
+Processing query: What is the minimum CGPA required for PhD students in Engineering with undergraduate degrees?
+Answer: The minimum CGPA required for PhD students in Engineering with undergraduate degrees is 5.5.
+Processing query: How many credits are required for Direct PhD students in Engineering?
+Answer: Minimum 6 credits are required for Direct PhD students in Engineering with a minimum CGPA of 5.5.
+Processing query: What is the basket rule for CGPA computation?
+Answer: The basket rule for CGPA computation is that the courses with the best grades that make up the minimum RTP credit requirement will be considered for computation.
+Processing query: How many years do Direct PhD students have to complete their RTP?
+Answer: Direct PhD students have 5 years to complete their RTP.
+Processing query: What happens if a PhD student fails to meet the minimum CGPA requirement?
+Answer: If a PhD student fails to meet the minimum CGPA requirement, they will not be considered for the computation of CGPA.
+Processing query: What are the requirements for the Comprehensive Examination?
+Answer: The requirements for the Comprehensive Examination are that the syllabus of the examination will encompass the examinee’s coursework and subjects recommended by the project/research supervisor(s). At least 3 courses must be considered for framing the syllabus for the Comprehensive Tuition and all other fees are paid.
+Processing query: What is the maximum period allowed for completing the Comprehensive Examination?
+Answer: The maximum period allowed for completing the Comprehensive Examination is three years from the date of joining the programme.
+Processing query: What happens if a student fails the Comprehensive Examination?
+Answer: The student will be asked to discontinue from the program.
+Processing query: Who forms the Comprehensive Examination board?
+Answer: The Comprehensive Examination Board forms the Comprehensive Examination Board.
+Processing query: What is the maximum period allowed for PhD students to submit their thesis after their registration is cancelled?
+Answer: The maximum period allowed for PhD students to submit their thesis after their registration is cancelled is 6 months.
+Processing query: How many credits are required for PhD students to transfer from M.Tech (Res)?
+Answer: The credit limit for PhD students to transfer from M. Tech (Res) within two terms is not mentioned in the given context. Therefore, the answer is "unknown".
+Processing query: What happens if a student fails more than two courses in the Integrated PhD programme?
+Answer: The student is not allowed to take more than two courses in the Integrated PhD programme.
+Processing query: What is the minimum CGPA required for continuation to the PhD programme in Integrated PhD?
+Answer: The minimum CGPA required for continuation to the PhD program in Integrated PhD is 7.0.
+Processing query: How long do students in the Integrated PhD programme have to submit their MS (Research) thesis?
+Answer: Students in the Integrated PhD programme have to submit their MS (Research) thesis by the end of six months from the date of the comprehensive examination or the end of the third year, whichever is later.
+Processing query: What is the duration of the Integrated PhD programme?
+Answer: The duration of the Integrated PhD programme is 7 years.
+Processing query: What is the CGPA requirement for continuation to PhD for Integrated PhD students?
+Answer: The CGPA requirement for continuation to PhD for Integrated PhD students is a minimum of 5.0.
+Processing query: How many credits must Integrated PhD students complete in their first two years?
+Answer: The maximum number of credits allowed for Integrated PhD students in their first two years is 73.
+Processing query: What is the maximum allowed period of internship for PhD students with collaboration?
+Answer: The maximum allowed period for collaborative work/internship for PhD students with collaboration is 12 months.
+Processing query: What is the maximum period allowed for Integrated PhD students to complete their thesis?
+Answer: The maximum period allowed for Integrated PhD students to complete their thesis is within the registration period as per the norms of the institution.
+Processing query: What is the minimum CGPA required for PhD students in Science?
+Answer: The minimum CGPA required for PhD students in Science is 5.5.
+Processing query: What is the minimum CGPA required for PhD students with undergraduate qualifications?
+Answer: The minimum CGPA required for PhD students with undergraduate qualifications is 7.
+Processing query: What is the minimum CGPA required to complete RTP for PhD students?
+Answer: The minimum CGPA required to complete RTP for PhD students is 6.5.
+Processing query: How many credits must PhD students with MSc qualifications complete?
+Answer: PhD students with MSc qualifications must complete a minimum of 5.0 credits to be eligible for an MS (Research) degree.
+Processing query: What is the minimum CGPA required for Integrated PhD students at the end of the first year?
+Answer: The minimum CGPA required for Integrated PhD students at the end of the first year is 5.0.
+Processing query: How many credits are required for Integrated PhD students in their first two years?
+Answer: The maximum number of credits allowed for Integrated PhD students in their first two years is 73.
+Processing query: What is the credit limit for Integrated PhD students?
+Answer: The credit limit for Integrated PhD students is 73.
+Processing query: How many credits must students in the PhD programme in Interdisciplinary Mathematical Science complete with BE/BTech qualifications?
+Answer: Students in the PhD program in Interdisciplinary Mathematical Science must complete a minimum of 24 credits for RTP with BE/BTech qualifications.
+Processing query: How long do students in the Integrated PhD programme have to complete their thesis?
+Answer: The students in the Integrated PhD programme are expected to submit their thesis within the registration period as per the norms of the institution.
+Processing query: What is the maximum allowed period for PhD internships with collaboration?
+Answer: The maximum allowed period for PhD internships with collaboration is 12 months.
+Processing query: How many credits are required for PhD students in Science with MSc qualifications?
+Answer: The maximum number of credits allowed for PhD students in Science with MSc qualifications is 73.
+Processing query: Who is the Chair of the Students' Council in 2023?
+Answer: The context does not provide information about the Chair of the Students' Council in 2023.
+Processing query: What is the mission of EntIISc?
+Answer: The mission of EntIISc is to promote and sustain entrepreneurial spirit and facilitate ideas and networking by means of events, workshops, and training.
+Processing query: What are the main objectives of EntIISc?
+Answer: The main objectives of EntIISc are to promote and sustain entrepreneurial spirit and facilitate ideas and networking by means of events, workshops, and training.
+Processing query: What are some of the events organized by the Students' Council?
+Answer: The Students' Council organizes protests and acts as a united voice of the students of the institute.
+Processing query: Which charges are common for single and married apartments?
+Answer: The common charges for single and married apartments are: - Establishment Charges - Amenities Charges - Electricity & water charges - Mess Amenities Charges - Allotment Rules for Married Student Apartments
+Processing query: What are the roles of the Students' Council?
+Answer: The roles of the Students' Council are to look after on-campus amenities and monitor the quality of the existing ones, as well as to encourage students to take a stand for what is right.
+Processing query: Who should be contacted regarding Married Student Apartments?
+Answer: The provided context does not provide any information about who should be contacted regarding Married Student Apartments.
+Processing query: What is the purpose of the Wellness Centre at IISc?
+Answer: The purpose of the Wellness Centre at IISc is not provided in the given context.
+Processing query: How many fellowships are currently available to students?
+Answer: The context does not provide information on how many fellowships are currently available to students.
+Processing query: What is the rental charge for a Bhaskara married apartment?
+Traceback (most recent call last):
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 114, in <module>
+    process_excel_queries("textual_TESTSET_FINAL.xlsx", "abstr_textual_TESTSET_RESPONSES.xlsx")
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 99, in process_excel_queries
+    answer = process_answer({'query': query})
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 80, in process_answer
+    qa = qa_llm()
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 68, in qa_llm
+    db = Chroma(persist_directory=persist_directory, embedding_function=embeddings, client_settings=CHROMA_SETTINGS)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/langchain/vectorstores/chroma.py", line 120, in __init__
+    self._client = chromadb.Client(_client_settings)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/__init__.py", line 31, in Client
+    api = system.instance(API)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/config.py", line 160, in instance
+    impl = type(self)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/api/local.py", line 61, in __init__
+    self._db = self.require(DB)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/config.py", line 106, in require
+    inst = self._system.instance(type)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/config.py", line 160, in instance
+    impl = type(self)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/db/duckdb.py", line 435, in __init__
+    super().__init__(system=system)
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/db/duckdb.py", line 49, in __init__
+    self._conn = duckdb.connect()
+RuntimeError: Resource temporarily unavailable

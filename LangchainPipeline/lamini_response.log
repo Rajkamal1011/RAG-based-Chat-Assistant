@@ -1,0 +1,22 @@
+nohup: ignoring input
+/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Checkpoint path: MBZUAI/LaMini-T5-738M
+student_information_handbook.pdf
+Traceback (most recent call last):
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 110, in <module>
+    data_ingestion()
+  File "/data6/rk/rajkamalr/RAG/Baseline2/Chat-with-PDF-Chatbot/simple_rag_pipeline.py", line 46, in data_ingestion
+    db.persist()
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/langchain/vectorstores/chroma.py", line 511, in persist
+    self._client.persist()
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/api/local.py", line 544, in persist
+    self._db.persist()
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/db/duckdb.py", line 473, in persist
+    self._conn.execute(
+duckdb.IOException: IO Error: Could not set lock on file "db/chroma-embeddings.parquet.tmp": Resource temporarily unavailable
+Exception ignored in atexit callback: <bound method PersistentDuckDB.persist of <chromadb.db.duckdb.PersistentDuckDB object at 0x7f3f6067a410>>
+Traceback (most recent call last):
+  File "/data2/home/rajkamalr/miniconda3/envs/rag/lib/python3.10/site-packages/chromadb/db/duckdb.py", line 473, in persist
+    self._conn.execute(
+duckdb.IOException: IO Error: Could not set lock on file "db/chroma-embeddings.parquet.tmp": Resource temporarily unavailable
